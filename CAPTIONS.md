@@ -8,8 +8,17 @@ Claims are taken only from the product labels. For the perfume, no scent notes a
 - "Hijabista mesti ada ni 👀"
 - "Ketiak gelap? Cuba ni dulu sebelum give up"
 - "Deo yang ada 10X Niacinamide?!"
+- "Pakai tudung seharian, ketiak tetap fresh? 🧕"
+- "Benda kecil dalam beg aku yang selalu orang tanya 👜"
 
-**Caption:**
+First frames for the new backgrounds: `next-products/pov_safi_A.png` (sunny) and `next-products/pov_safi_B.png` (pastel).
+
+**Caption (version 2, casual and asks for comments):**
+Siapa pakai tudung hari-hari, angkat tangan 🙋‍♀️ Aku selalu bawa Safi Hijabista Bodycare dalam beg. Roll-on, antibacterial, ada 10X* Niacinamide, Pearl Powder & Apricot 🍑 Botol kecil, tak semak dalam beg.
+Korang pakai deo apa sekarang? Comment 👇
+Link kat beg kuning 🛒
+
+**Caption (version 1):**
 Deo roll-on khas untuk hijabista 🧕✨ Safi Hijabista Bodycare Healthy White: antibacterial deo dengan 10X* Niacinamide, Pearl Powder & Apricot. Saiz kecil, senang masuk beg 👜
 Link kat beg kuning 🛒
 
