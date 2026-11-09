@@ -50,3 +50,16 @@ PINENG 22.5W 10000mAh 🔋 Ada wireless charging magnet, jadi lekat terus di bel
 Link kat beg kuning 🛒
 
 #powerbank #pineng #powerbankmagnet #wirelesscharger #gadgetmalaysia #racuntiktok #affiliatetiktok #fypmalaysia
+
+## 5. Platform clog: 4 colours (videos/clog_colours_v1.mp4)
+**Hook options:**
+- "Nak nampak tinggi tapi tak nak pakai heels? 👀"
+- "4 warna ni, korang pilih yang mana? 🤍💗💜"
+- "Selipar yang buat outfit simple terus nampak cute ✨"
+
+**Caption:**
+Clog platform tapak tebal 🩴✨ Tambah tinggi tanpa perlu pakai heels. Ada tali belakang yang boleh dilipat, jadi boleh pakai macam selipar atau kasut. Ada 4 warna pastel: Beige 🤎 White 🤍 Pink 💗 Lilac 💜
+Comment warna favourite korang! 👇
+Link kat beg kuning 🛒
+
+#clog #seliparplatform #kasutwanita #platformshoes #ootdmalaysia #racuntiktok #affiliatetiktok #fypmalaysia
