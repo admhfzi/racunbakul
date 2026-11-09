@@ -1,0 +1,4 @@
+# Clog: Google Vids / Flow image-to-video prompts (9:16)
+Use `pov_clog_<colour>_<A|B>.png` as the first frame. Replace <COLOUR> with beige / white / pink / lilac.
+
+Static camera, vertical POV handheld product shot. Two hands in a mustard yellow sweatshirt each hold one <COLOUR> platform clog toward the camera. The hands very slowly and gently tilt the clogs a few degrees, a soft natural sway, as if showing them to a friend; then slightly turn them to show the thick platform sole. The clogs keep exactly the same <COLOUR> colour, round holes, side vent holes, back strap with button and thick platform sole in every frame. The clogs stay in the centre of the frame. The background room stays exactly the same and still. Soft natural light, realistic phone-camera look. No zoom, no camera movement, no text overlay. Audio: quiet room ambience only, no music, no voice.
