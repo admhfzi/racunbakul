@@ -39,7 +39,14 @@ Link kat beg kuning 🛒
 
 #wardah #wardahcrystalsecret #facialwash #skincaremalaysia #ahapha #racuntiktok #affiliatetiktok #fypmalaysia
 
-## Bonus: PINENG 22.5W powerbank (videos/pineng_v2.mp4)
-**Hook:** "Powerbank magnet yang tak payah bawa wayar 🔋"
-**Caption:** PINENG 22.5W 10000mAh. Lekat terus di belakang phone, ada port USB dan Type-C. Kecil, muat poket ✨ Link kat beg kuning 🛒
-#powerbank #pineng #wirelesscharger #gadgetmalaysia #racuntiktok #affiliatetiktok
+## 4. PINENG 22.5W powerbank (videos/pineng_v2.mp4)
+**Hook options:**
+- "Powerbank magnet yang tak payah bawa wayar 🔋"
+- "Bateri phone 5% masa kelas? Ni penyelamat aku 😮‍💨"
+- "Kecil macam ni tapi 10000mAh?!"
+
+**Caption:**
+PINENG 22.5W 10000mAh 🔋 Ada wireless charging magnet, jadi lekat terus di belakang phone (untuk phone yang support magnetic wireless charging). Ada juga port USB dan Type-C untuk cas guna wayar, dan lampu LED untuk tengok baki bateri 💡 Saiz kecil, muat poket dan beg ✨
+Link kat beg kuning 🛒
+
+#powerbank #pineng #powerbankmagnet #wirelesscharger #gadgetmalaysia #racuntiktok #affiliatetiktok #fypmalaysia
