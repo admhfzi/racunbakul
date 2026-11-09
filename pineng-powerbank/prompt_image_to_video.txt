@@ -1,0 +1,5 @@
+PROMPT:
+Static camera, POV handheld product shot. The hands in the mustard yellow sweatshirt very slowly and gently tilt the black power bank a few degrees left and right, a soft natural sway, as if showing it to the viewer. The power bank stays centered in the frame and keeps facing the camera. The logo "PINENG" and the text "22.5W" and "10000mAh" stay sharp, readable and unchanged. The fingers stay wrapped naturally around the sides. The background (desk, lamp, keyboard, notebook) stays exactly the same and still. Soft warm lamp light, realistic, no zoom, no camera movement, no text overlay.
+
+NEGATIVE:
+blurry text, distorted logo, changing label, extra fingers, deformed hands, background change, new objects, camera shake, zoom, fast movement

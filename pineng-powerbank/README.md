@@ -7,3 +7,8 @@
 
 Re-render: `cd pineng-powerbank && python3 make_video.py out.mp4 1.1 1.0 -30 10 200`
 (args: product scale, hand scale, hand rotation, hand x/y offset)
+
+## v2: POV first frame for AI "goyang" video (recommended)
+`pov_first_frame.png` (944x1680, 9:16): two hands in mustard yellow sleeves hold the powerbank, shot as a POV photo over the same desk.
+It was generated in Canva with the two original photos as references.
+Use it as the **first frame** in an image-to-video tool (Kling / Grok Imagine / Meta AI / Hailuo) with the prompt in `prompt_image_to_video.txt`.
