@@ -31,7 +31,7 @@ Link kat beg kuning 🛒
 - "Spray sekali, terus rasa confident"
 
 **Caption:**
-SugarBomb Hush Lush Whisper 💜 Eau de Bomb 30ml, botol kaca dengan penutup emas, comel sangat dekat meja solek. Saiz 30ml senang bawa ke kelas atau kerja ✨
+SugarBomb Hush Lush Whisper 💜 Eau de Bomb 30ml, botol kaca dengan penutup emas, comel sangat dekat meja solek. Saiz 30ml senang bawa ke kerja atau jalan-jalan ✨
 Link kat beg kuning 🛒
 
 #sugarbomb #hushlushwhisper #perfume #minyakwangi #perfumemurah #racuntiktok #affiliatetiktok #fypmalaysia
@@ -51,7 +51,7 @@ Link kat beg kuning 🛒
 ## 4. PINENG 22.5W powerbank (videos/pineng_v2.mp4)
 **Hook options:**
 - "Powerbank magnet yang tak payah bawa wayar 🔋"
-- "Bateri phone 5% masa kelas? Ni penyelamat aku 😮‍💨"
+- "Bateri phone 5% masa tengah guna Waze? Ni penyelamat aku 😮‍💨"
 - "Kecil macam ni tapi 10000mAh?!"
 
 **Caption:**
