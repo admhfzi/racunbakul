@@ -6,35 +6,37 @@ Use as: on-screen text over the POV video (split into 8–12 slides), as a voice
 
 ---
 
-## 1. Safi Hijabista Bodycare: "Kisah angkat tangan"
+## 1. Safi Hijabista Bodycare: "Kisah lengan baju"
 
 Aku nak cerita satu rahsia yang aku simpan lama. Jangan gelak tau 🙈👇
 
-Dulu masa kuliah, aku antara pelajar yang paling jarang angkat tangan. Bukan sebab tak tahu jawapan. Aku tahu. Tapi aku takut… takut orang nampak, takut orang terbau 😭
+Dulu setiap kali keluar dengan kawan-kawan, aku ada satu tabiat pelik: aku tak berani angkat tangan tinggi-tinggi. Nak lambai kawan pun separuh je. Nak ambil barang kat rak atas pun aku minta orang lain 😭
 
-Bayangkan: pakai tudung dari 7 pagi sampai 5 petang. Kelas, lepas tu berjalan dari blok A ke blok D bawah panas, lepas tu kelas lagi. Lengan baju dah basah, tudung dah senget, keyakinan dah tinggal 10%.
+Sebab? Takut orang nampak lengan baju basah. Takut orang terbau.
 
-Satu hari pensyarah tanya soalan. Senyap satu kelas. Aku tahu jawapannya, tapi tangan aku macam kena gam kat meja 😩
+Bayangkan: pakai tudung dari pagi sampai petang. Naik LRT sesak, jalan kaki bawah panas, masuk mall, keluar mall. Lengan baju dah basah, tudung dah senget, keyakinan dah tinggal 10%.
 
-Habis kelas, kawan sebilik aku cakap: "Weh, kau tahu jawapan tu kan? Kenapa tak jawab?"
+Satu hari kami nak ambil gambar group. Semua orang angkat tangan buat "peace" ✌️ Aku je yang tangan rapat ke badan macam askar 🫡
 
-Aku pun mengaku la sebab sebenar. Dia tak gelak pun. Dia buka pencil case dia, keluarkan satu botol kecil.
+Lepas tu kawan baik aku tarik aku ke tepi. "Weh kenapa kau kaku sangat tadi?"
+
+Aku pun mengaku la sebab sebenar. Dia tak gelak pun. Dia buka beg dia, keluarkan satu botol kecil.
 
 "Nah, cuba ni. Aku pakai hari-hari."
 
 Safi Hijabista Bodycare. Memang khas untuk yang bertudung 🧕
 
-Aku baca label dia: roll-on antibacterial, ada 10X* Niacinamide, Pearl Powder & Apricot 🍑 Botol pun kecil je, masuk pencil case pun muat.
+Aku baca label dia: roll-on antibacterial, ada 10X* Niacinamide, Pearl Powder & Apricot 🍑 Botol pun kecil je, masuk beg tangan pun tak semak.
 
-Esoknya aku cuba. Kelas pagi, berjalan tengah hari, kelas petang…
+Minggu depan kami keluar lagi. Naik LRT, jalan-jalan, makan, shopping…
 
-Dan buat pertama kali dalam semester tu, aku angkat tangan dan jawab soalan pensyarah ✋
+Dan masa ambil gambar group, aku orang pertama angkat tangan tinggi-tinggi ✋😆
 
-Pensyarah cakap "Bagus!" Aku rasa macam menang anugerah dekan 🤣
+Kawan aku jeling sambil senyum: "Haa, macam tu la!"
 
-Moral of the story: kadang-kadang yang halang kita bukan otak, tapi rasa tak yakin. Dan kadang-kadang rasa yakin tu datang dari benda sekecil botol roll-on.
+Moral of the story: kadang-kadang yang halang kita bukan orang lain, tapi rasa tak yakin. Dan kadang-kadang rasa yakin tu datang dari benda sekecil botol roll-on.
 
-Korang pernah tak rasa malu nak angkat tangan? Cerita kat komen 👇
+Korang pernah tak rasa segan nak angkat tangan? Cerita kat komen 👇
 Link aku letak kat beg kuning 🛒
 
 ---
@@ -103,27 +105,27 @@ Link kat beg kuning 🛒
 
 ## 4. PINENG 22.5W powerbank: "Kisah bateri 3%"
 
-Aku nak cerita satu kejadian paling memalukan minggu lepas. Baca sampai habis 😭👇
+Aku nak cerita satu kejadian paling cuak minggu lepas. Baca sampai habis 😭👇
 
-Hari tu aku ada praktikum. Pagi-pagi lagi dah keluar rumah, bangga gila sebab tak lewat.
+Hari tu aku ada interview kerja. Pagi-pagi lagi dah siap, baju gosok licin, keluar rumah awal. Bangga gila sebab tak lewat.
 
-Sampai sekolah, buka phone nak semak RPH… bateri 3%. Aku pandang charger. Charger pandang aku. Rupanya dia masih kat rumah 🙂
+Separuh jalan, buka Waze… bateri 3%. Aku pandang charger. Oh wait, charger tak ada. Dia masih kat atas katil 🙂
 
-Cikgu pembimbing dah tunggu. Slide aku semua dalam phone. Masa tu aku rasa macam murid tak siap kerja sekolah depan guru besar 😩
+Aku dah la tak tahu jalan. Alamat ofis tu pun dalam WhatsApp. Masa tu rasa nak menangis tepi jalan 😩
 
-Aku cuba cari soket. Satu-satunya soket dalam bilik tu ada projektor. Aku tak berani cabut. Tak nak jadi viral sebab cabut projektor masa cikgu lain tengah mengajar 🤣
+Aku masuk kedai serbaneka, tanya ada soket tak. Abang kaunter pandang aku macam aku minta pinjam kereta dia 🤣
 
-Nasib baik kawan aku keluarkan satu benda kecil hitam dari beg. Dia letak kat belakang phone aku… tak ada wayar, tak ada apa. Melekat je. Terus cas 🧲
+Nasib baik ada sorang kakak dalam kedai tu dengar. Dia keluarkan satu benda kecil hitam dari beg. Dia letak kat belakang phone aku… tak ada wayar, tak ada apa. Melekat je. Terus cas 🧲
 
-Aku terdiam. "Weh apa ni??"
+Aku terdiam. "Kak, apa ni??"
 
 Dia cakap: "PINENG 22.5W, 10000mAh. Magnet. Ada port USB dan Type-C sekali kalau nak guna wayar. Lampu LED tu tunjuk baki bateri."
 
 (Nota: magnet tu untuk phone yang support magnetic wireless charging ye.)
 
-Aku sempat buka slide, praktikum berjalan lancar, cikgu pembimbing senyum. Aku pun senyum, tapi dalam hati aku peluk powerbank tu 🥹
+Sepuluh minit, bateri dah cukup untuk sampai. Aku sampai interview tepat masa, jawab soalan dengan tenang. Dalam hati aku doakan kakak tu murah rezeki 🥹
 
-Habis praktikum, benda pertama aku buat bukan makan. Aku terus checkout 🤣
+Balik dari interview, benda pertama aku buat bukan makan. Aku terus checkout 🤣
 
 Sekarang benda ni duduk dalam beg aku macam bodyguard. Kecil, muat poket, tak semak.
 
