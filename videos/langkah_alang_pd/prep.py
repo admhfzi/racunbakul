@@ -141,8 +141,31 @@ uh = dil(alphas['umb'] > 0.02, 7) & (yy >= 955) & (yy < 1080)
 # rough prefill so Poisson boundaries never see the umbrella
 pre = (dil(uh | ((alphas['umb'] > 0.04) & (yy >= 1075)) | (alphas['umbB'] > 0.04), 13) * 255).astype(np.uint8)
 bg8 = cv2.inpaint(bg8, pre, 6, cv2.INPAINT_TELEA)
-for x0, x1, dx, dy in [(200, 415, 716, 4), (815, 930, 200, -4), (615, 815, 316, 10), (415, 615, 500, -10)]:
-    bg8 = clone(bg8, uh & (xx >= x0) & (xx < x1), dx, dy)
+# one continuous cloud band: mirror-tile the real clouds on the right (x 935..1130)
+# so the copy joins the real clouds with no seam, then Poisson-blend the whole band
+XR0, XR1 = 935, 1130
+def tri(v, lo, hi):            # reflect coordinates into [lo, hi]
+    span = hi - lo
+    m = np.mod(v - lo, 2 * span)
+    return lo + np.where(m <= span, m, 2 * span - m)
+srcf = bg8.astype(np.float32)
+acc = np.zeros_like(srcf); wsum = np.zeros((H, W), np.float32)
+step, half = 105, 150
+tiles = [(935, -1, 1.0, 935, 0)]          # first tile mirrors the join so it continues the real clouds
+prm = [(1, 0.72, 1010, 10), (-1, 1.35, 1085, -8), (1, 1.1, 960, 14), (-1, 0.8, 1040, -4),
+       (1, 1.5, 1070, 8), (-1, 0.95, 990, -12), (1, 0.75, 1100, 6), (-1, 1.2, 1020, 0)]
+for i, (dr, k, sc_, dy_) in enumerate(prm):
+    tiles.append((935 - step * (i + 1), dr, k, sc_, dy_))
+for c, dr, k, sc_, dy_ in tiles:
+    w = np.cos(np.clip(np.abs(xx - c) / half, 0, 1) * np.pi / 2) ** 2
+    mapx = tri(sc_ + (xx - c) * k * dr, XR0 + 2, XR1 - 2).astype(np.float32)
+    t_ = cv2.remap(srcf, mapx, (yy + dy_).astype(np.float32), cv2.INTER_LINEAR)
+    acc += t_ * w[..., None]; wsum += w
+src = bg8.copy()
+blend = acc / np.maximum(wsum, 1e-4)[..., None]
+src[:, :XR0] = np.clip(blend[:, :XR0], 0, 255).astype(np.uint8)
+band = np.zeros((H, W), np.uint8); band[872:1084, 216:XR0] = 255
+bg8 = cv2.seamlessClone(src, bg8, band, ((216 + XR0) // 2, (872 + 1084) // 2), cv2.NORMAL_CLONE)
 bg8 = clone(bg8, alphas['umbB'] > 0.04, 125, -6)
 # pole over clouds/sea/sand: copy the strip just beside it
 bg8 = clone(bg8, (alphas['umb'] > 0.04) & (yy >= 1075), 50, 0)
