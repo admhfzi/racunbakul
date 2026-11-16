@@ -112,7 +112,7 @@ for i in range(N):
         draw(fr, 'umbB', -320 * (1 - e), -380 * (1 - e) + 40 * math.sin(p * 8) * (1 - e),
              rot=-40 * math.sin(p * 6) * (1 - e) + 6 * math.sin(t * 3 + 1) * (1 - prog(t, 4, 6)))
     # --- coconut rolls from the right to centre with a little bounce
-    p = prog(t, 0.9, 2.2)
+    p = prog(t, 0.2, 1.3)
     if p > 0:
         e = ease_out_cubic(p)
         dist = 640 * (1 - e)
@@ -130,8 +130,8 @@ for i in range(N):
     # --- "Port Dickson" drops & bounces
     p = prog(t, 3.8, 4.6)
     if p > 0:
-        e = ease_out_bounce(p)
-        draw(fr, 'port', 0, -650 * (1 - e), alpha=min(1, p * 4))
+        e = ease_out_back(p, 1.4)
+        draw(fr, 'port', 0, 140 * (1 - e), scale=0.85 + 0.15 * e, alpha=min(1, p * 2.5))
     # --- location pin drops
     p = prog(t, 4.3, 4.9)
     if p > 0:
@@ -153,6 +153,14 @@ for i in range(N):
     # final settle: blend to the exact original poster
     q = ease_in_out(prog(t, 5.9, 6.4))
     if q > 0: fr = fr * (1 - q) + orig * q
+    # camera: start zoomed on the sky, pull back to the full poster
+    z = ease_in_out(prog(t, 0.0, 1.8))
+    sc = 1.4 + (1.0 - 1.4) * z
+    if sc > 1.0001:
+        cx, cy = W / 2, H * 0.36 * (1 - z) + H / 2 * z
+        M = np.array([[sc, 0, W / 2 - sc * cx], [0, sc, H / 2 - sc * cy]], np.float32)
+        M[1, 2] = min(0, max(H - sc * H, M[1, 2]))
+        fr = cv2.warpAffine(fr, M, (W, H), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REFLECT)
     cv2.imwrite(f'{frames_dir}/{i:04d}.png', np.clip(fr, 0, 255).astype(np.uint8))
 
 print('frames', N)
